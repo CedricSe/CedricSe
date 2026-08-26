@@ -1,21 +1,21 @@
 <div align="center">
 
 ```
-                        cedric@github
-                        -------------
-        .           .   OS: ................. Proxmox VE (Homelab)
-      .:###:.       .   Distro: .............. Kali Linux / Ubuntu
-     :#######:      .   Shell: ................ bash / zsh
-    :#########:     .   Field: ................ IT Security (Applied CS)
-   .###########.    .   Uni: .................. Hochschule Mittweida
-   :###{o}#{o}###:   .   Focus: ................ Pentesting, Detection Eng.
-   :#####___#####:   .   Editor: ............... VS Code
-    :#########:     .   Homelab: .............. Proxmox, LXC, self-hosted
-     :#######:      .
-      ':###:'       .   Languages: ........... Python, Bash
-        ':':        .   Tools: ................ nmap, hashcat, gobuster
-         ':`        .   Currently learning: ... LLM agents, RAG pipelines
-                        Pronouns: ............. he/him
+cedric@github
+-------------
+OS: ............................ Proxmox VE (Homelab)
+Distro: ........................ Kali Linux / Ubuntu
+Shell: ......................... bash
+Field: ......................... IT Security (Applied CS)
+University: .................... Hochschule Mittweida
+Focus: ......................... Pentesting, Detection Eng.
+Editor: ........................ VS Code
+Homelab: ....................... Proxmox, LXC, self-hosted
+
+Languages: ..................... Python, Bash
+Tools: ......................... nmap, hashcat, gobuster
+Learning: ...................... LLM agents, RAG pipelines
+Pronouns: ...................... he/him
 ```
 
 </div>
