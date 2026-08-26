@@ -1,26 +1,9 @@
-<div align="center">
-
-```
-cedric@github
--------------
-OS: ............................ Proxmox VE (Homelab)
-Distro: ........................ Kali Linux / Ubuntu
-Shell: ......................... bash
-Field: ......................... IT Security (Applied CS)
-University: .................... Hochschule Mittweida
-Focus: ......................... Pentesting, Detection Eng.
-Editor: ........................ VS Code
-Homelab: ....................... Proxmox, LXC, self-hosted
-
-Languages: ..................... Python, Bash
-Tools: ......................... nmap, hashcat, gobuster
-Learning: ...................... LLM agents, RAG pipelines
-Pronouns: ...................... he/him
-```
-
-</div>
+<h1 align="center">CedricSe</h1>
+<p align="center">Applied Computer Science · IT Security</p>
 
 ---
+
+Applied CS student focused on IT Security. Self-taught in ethical hacking and penetration testing, with a homelab used for hands-on practice. Mostly writing Python — automation, TUI applications, and security tooling.
 
 ### currently building
 
