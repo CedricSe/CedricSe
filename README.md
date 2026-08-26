@@ -16,37 +16,71 @@ Applied CS student focused on IT Security. Self-taught in ethical hacking and pe
 - **[SSH-Bruteforce-Detector](https://github.com/CedricSe/SSH-Bruteforce-Detector)** — parses SSH logs (journald or classic logfiles) and flags bruteforce patterns using a sliding time window
 - **wrapt** — a Textual TUI that wraps common pentest tools (nmap, gobuster, hashcat, …) with guided input fields, live command preview, and built-in explanations for each flag
 
-### languages & core
+### languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-2B4FFF?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-5EA2FF?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Regex-5C78FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JSON-905AFF?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-905AFF?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-5C78FF?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-A52AFF?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML/CSS-BA5AFF?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-28B9FF?style=for-the-badge&logo=yaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regex-2883FF?style=for-the-badge" />
 </p>
 
-### systems & infra
+### operating systems & infra
 
 <p align="left">
   <img src="https://img.shields.io/badge/Proxmox-905AFF?style=flat-square&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-BA5AFF?style=flat-square&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-A52AFF?style=flat-square&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian-2B4FFF?style=flat-square&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/systemd-28B9FF?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-5C78FF?style=flat-square&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-28B9FF?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-5EA2FF?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/systemd-2883FF?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-5AC8FF?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/LXC-5C78FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/pfSense-A52AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/WireGuard-BA5AFF?style=flat-square&logo=wireguard&logoColor=white" />
 </p>
 
-### security tooling
+### recon & scanning
 
 <p align="left">
   <img src="https://img.shields.io/badge/Nmap-28B9FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gobuster-5EA2FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hashcat-905AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hydra-BA5AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Masscan-5EA2FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gobuster-905AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/ffuf-BA5AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nikto-A52AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/theHarvester-2B4FFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Shodan-5C78FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Recon--ng-2883FF?style=flat-square" />
+</p>
+
+### exploitation & web
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Metasploit-A52AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-BA5AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/sqlmap-905AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-2B4FFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hydra-5C78FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hashcat-28B9FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-5EA2FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/CrackMapExec-2883FF?style=flat-square" />
+</p>
+
+### analysis & post-exploitation
+
+<p align="left">
   <img src="https://img.shields.io/badge/Wireshark-2B4FFF?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-A52AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-5C78FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/tcpdump-5C78FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/BloodHound-A52AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/LinPEAS-BA5AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ghidra-905AFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Volatility-28B9FF?style=flat-square" />
 </p>
 
 ### tools & workflow
@@ -58,6 +92,9 @@ Applied CS student focused on IT Security. Self-taught in ethical hacking and pe
   <img src="https://img.shields.io/badge/Textual-905AFF?style=flat-square" />
   <img src="https://img.shields.io/badge/SSH-BA5AFF?style=flat-square" />
   <img src="https://img.shields.io/badge/tmux-A52AFF?style=flat-square&logo=tmux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-28B9FF?style=flat-square&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-5EA2FF?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-2883FF?style=flat-square&logo=obsidian&logoColor=white" />
 </p>
 
 ### stats
@@ -83,10 +120,4 @@ Applied CS student focused on IT Security. Self-taught in ethical hacking and pe
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=CedricSe&color=a52aff&style=flat-square&label=profile+views" />
-</p><h1 align="center">CedricSe</h1>
-<p align="center">Applied Computer Science · IT Security</p>
-
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CedricSe&bg_color=1A1A1A&color=F1F1F1&line=A52AFF&point=5C78FF&hide_border=true" />
 </p>
