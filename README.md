@@ -21,12 +21,8 @@ Applied CS student focused on IT Security. Self-taught in ethical hacking and pe
 <p align="left">
   <img src="https://img.shields.io/badge/Python-2B4FFF?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-5EA2FF?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-905AFF?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-5C78FF?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-A52AFF?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML/CSS-BA5AFF?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/YAML-28B9FF?style=for-the-badge&logo=yaml&logoColor=white" />
-  <img src="https://img.shields.io/badge/Regex-2883FF?style=for-the-badge" />
 </p>
 
 ### operating systems & infra
@@ -36,65 +32,47 @@ Applied CS student focused on IT Security. Self-taught in ethical hacking and pe
   <img src="https://img.shields.io/badge/Kali%20Linux-BA5AFF?style=flat-square&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-A52AFF?style=flat-square&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian-2B4FFF?style=flat-square&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-5C78FF?style=flat-square&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-28B9FF?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/macOS-5EA2FF?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/systemd-2883FF?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-5AC8FF?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/LXC-5C78FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/pfSense-A52AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/WireGuard-BA5AFF?style=flat-square&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-5C78FF?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-28B9FF?style=flat-square&logo=apple&logoColor=white" />
 </p>
 
 ### recon & scanning
 
 <p align="left">
   <img src="https://img.shields.io/badge/Nmap-28B9FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Masscan-5EA2FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Gobuster-905AFF?style=flat-square" />
   <img src="https://img.shields.io/badge/ffuf-BA5AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nikto-A52AFF?style=flat-square" />
   <img src="https://img.shields.io/badge/theHarvester-2B4FFF?style=flat-square" />
   <img src="https://img.shields.io/badge/Shodan-5C78FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Recon--ng-2883FF?style=flat-square" />
 </p>
 
-### exploitation & web
+### exploitation & credentials
 
 <p align="left">
   <img src="https://img.shields.io/badge/Metasploit-A52AFF?style=flat-square" />
   <img src="https://img.shields.io/badge/Burp%20Suite-BA5AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/sqlmap-905AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-2B4FFF?style=flat-square" />
   <img src="https://img.shields.io/badge/Hydra-5C78FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Hashcat-28B9FF?style=flat-square" />
   <img src="https://img.shields.io/badge/John%20the%20Ripper-5EA2FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/CrackMapExec-2883FF?style=flat-square" />
 </p>
 
-### analysis & post-exploitation
+### analysis
 
 <p align="left">
   <img src="https://img.shields.io/badge/Wireshark-2B4FFF?style=flat-square&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/tcpdump-5C78FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/BloodHound-A52AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/LinPEAS-BA5AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ghidra-905AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Volatility-28B9FF?style=flat-square" />
 </p>
 
 ### tools & workflow
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-2883FF?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2B4FFF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-5C78FF?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Textual-905AFF?style=flat-square" />
   <img src="https://img.shields.io/badge/SSH-BA5AFF?style=flat-square" />
   <img src="https://img.shields.io/badge/tmux-A52AFF?style=flat-square&logo=tmux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vim-28B9FF?style=flat-square&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-5EA2FF?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-2883FF?style=flat-square&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-2B4FFF?style=flat-square&logo=notion&logoColor=white" />
 </p>
 
 ### stats
