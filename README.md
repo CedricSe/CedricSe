@@ -21,7 +21,6 @@ Applied CS student focused on IT Security. Self-taught in ethical hacking and pe
 <p align="left">
   <img src="https://img.shields.io/badge/Python-2B4FFF?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-5EA2FF?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML/CSS-BA5AFF?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/YAML-28B9FF?style=for-the-badge&logo=yaml&logoColor=white" />
 </p>
 
